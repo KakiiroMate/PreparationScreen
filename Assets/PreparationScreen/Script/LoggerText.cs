@@ -16,7 +16,7 @@ namespace PreparationScreen
             {
                 sequence
                     .Append(textMeshPro.DOText(text, 1.5f))
-                    .Append(textMeshPro.DOFade(1f, 0.4f))
+                    .Append(textMeshPro.DOFade(1f, 0.5f))
                     .AppendCallback(() =>
                     {
                         textMeshPro.text = text;

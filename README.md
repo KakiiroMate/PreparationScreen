@@ -4,6 +4,8 @@
 
 VRMデータと一部Assetは含めていません。
 
+![image](.gif/PreparationScreen.gif)
+
 ### Font
 
 [たぬゴ](https://tanukifont.com/tanugo/)
